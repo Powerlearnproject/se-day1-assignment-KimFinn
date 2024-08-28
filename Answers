@@ -1,0 +1,68 @@
+#Part 1
+Question a:
+Software engineering is a field that focuses on on the design, development, maintenance and management of software systems
+It has the following importance:
+•	It ensures software created are of high quality and perform as expected
+•	It ensures software created don’t exceed the given resources ie.money
+•	It ensures that the software created are scalable to sustain the growing number of users
+•	It ensures the software created are easy to use especially to the users who are to use it
+
+
+Question b:
+•Development of structured programming -> before programming involved  code that was difficult to understand.Structured programming resulted to the emergence of other programming languages
+•Rise of object oriented programming ->This brought about the concept of organizing codes into class,this promoted code reusability by use of functions and easier maintainance of codes.
+•The agile  movement -> it outlined values and principles to improve software development.
+
+Question c:
+•planning -> involves  the definition of the project,timelines and feasibility
+•defining requirements -> requirements of the project are gathered  and checked to ensure they align to the project
+•design -> a blueprint of the software is creted
+•implementation ->the development of the project is done
+•testing -> the designed software is tested to ensure it works as intended
+•deployment -> after it is tested the software is now released to the intended users
+•maintainence -> it involves the modification and updates that will later be included
+
+Question d:
+•In waterfall methodology  
+the software development life cycle must be strictly observed
+reslts to a lot of documentation at each stage
+Cnages sre difficult to do after a phase is completed
+Its used when akimg baking systems
+•In Agile methodology
+The project is divide into smaller parts each involving planning designing
+Its flexibile and changes can be made once the phses are completed
+Its used when making apps
+
+Question e:
+•software developer -> write and maintain code,align the software with the project goal
+•quality assurance -> they do the testing to identify defects and ensure software meets the set quality
+•project manager ->are incharge of the whole project ensuring the project is done on time
+
+Question f:
+•IDEs provide a platform for writing and testing the code.example VS code 
+•VCS – provide a version of code and keep the codes up to date example git
+
+Question g:
+•Dealing with complex project which require critical tinking but thinking of this ,this must be the best part of software enginnering.This can be overcomed by using  agile methology to adapt to future changes 
+•Advancing technology -> keeping up with the latest technologies can be overwhelming.this can be overcomed by continuous learning
+•Dealing with the set deadlines ->tight deadlines can rduce the quality of the project . this cam be solved by priotizing tasks based on urgency
+
+Question h:
+•unit testing involves testing individual componentsof the software
+•integration testing ->focuses on testing the interaction between different units of the software ensuring the parts work together s intended
+•sytem testing -> involves testing the whole sytem ensring it meets the requiremens
+•acceptance testing ->the software is tested against the user to see if it meets the users expectections
+
+#part2
+Question a:
+•prompt engineering is the process of designing inputs to guide AI models and involves selecting the right words so as to get an accurate response
+importance:
+improving the quality of the response
+optimize efficiency satisfactory results will be achieved in the first try
+
+Question b:
+vague prompt->tell me about importance of promp engineering
+improved prompt-> explain the importance prompt engineering
+
+ 
+
